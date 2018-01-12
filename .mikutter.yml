@@ -1,0 +1,10 @@
+---
+slug: :mikutter_extract_nsfw
+depends:
+  mikutter: 3.5.0
+  plugin:
+  - gtk
+version: '1.0'
+author: '@cobodo@mstdn.kanagu.info'
+name: mikutter_extract_nsfw
+description: NSFWフラグが立っているModelだけを抽出するmikutterプラグイン
