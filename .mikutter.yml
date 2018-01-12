@@ -2,8 +2,7 @@
 slug: :mikutter_extract_nsfw
 depends:
   mikutter: 3.5.0
-  plugin:
-  - gtk
+  plugin: []
 version: '1.0'
 author: '@cobodo@mstdn.kanagu.info'
 name: mikutter_extract_nsfw
